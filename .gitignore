@@ -2,3 +2,6 @@
 *.ico
 *.dev
 *.o
+*.cbp
+*.depend
+*.layout
